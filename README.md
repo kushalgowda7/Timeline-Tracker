@@ -2,6 +2,10 @@
 
 A personal productivity and time-management application designed to help you organize your day, manage routines, stay focused, and keep track of how you spend your time.
 
+## 🌐 Live Demo
+
+**[Open Timeline Tracker](https://kushalgowda7.github.io/Timeline-Tracker/)**
+
 ## ✨ Features
 
 ### 🏠 Home Dashboard
@@ -62,25 +66,15 @@ A personal productivity and time-management application designed to help you org
 - Import previously exported CSV data.
 - Manage and reset application data.
 
-## 🚀 Deployment
+## 🛠️ Technologies
 
-This application is built using HTML, CSS, and JavaScript.
-
-It can be hosted as a static website using GitHub Pages.
-
-### GitHub Pages Setup
-
-1. Fork or clone this repository.
-2. Open repository Settings.
-3. Navigate to Pages.
-4. Select **Deploy from a branch**.
-5. Select the `main` branch.
-6. Select the `/ (root)` directory.
-7. Save your settings.
-
-Your application will be available at:
-
-`https://YOUR-USERNAME.github.io/timeline-tracker/`
+- HTML5
+- CSS3
+- JavaScript
+- SVG Graphics
+- Web Audio API
+- Web Speech API
+- Browser Storage APIs
 
 ## 📱 Compatibility
 
@@ -108,16 +102,6 @@ The application is designed for personal use. Session data and settings are mana
 Export your data periodically to maintain a backup.
 
 Clearing browser storage or website data may erase locally stored information.
-
-## 🛠️ Technologies
-
-- HTML5
-- CSS3
-- JavaScript
-- SVG Graphics
-- Web Audio API
-- Web Speech API
-- Browser Storage APIs
 
 ---
 
